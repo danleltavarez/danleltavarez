@@ -31,7 +31,14 @@
 
 ###
 
-<h2 align="left">I'm Daniel Tavares<br><br>- 🔭 - I am currently looking for an internship or a junior position. - atualmente estou a procura estagio, ou um jr<br>- ⚡ In my free time I'm looking at some study tips or updating some pages. - No meu tempo livre estou vendo algumas dicas de estudo ou atualizando algumas páginas</h2>
+<h2 align="left">Olá, eu sou o Daniel Tavares 👋<br><br>
+
+* 🔭 Atualmente trabalho como Aprendiz de TI, adquirindo experiência prática com suporte técnico, manutenção de computadores e operações de TI.<br>
+* 💻 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e estou aprimorando meus conhecimentos em programação, automação e desenvolvimento de software.<br>
+* ⚡ No meu tempo livre, desenvolvo projetos pessoais, estudo novas tecnologias e busco evoluir constantemente minhas habilidades.
+
+</h2>
+
 
 ###
 
